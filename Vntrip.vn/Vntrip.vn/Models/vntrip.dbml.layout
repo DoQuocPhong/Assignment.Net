@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="vntrip">
+  <DataContextMoniker Name="/vntripDataContext" />
+  <nestedChildShapes>
+    <classShape Id="389da840-654f-412d-86aa-b24b83b6a1a8" absoluteBounds="4.75, 1.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/vntripDataContext/KhuVuc" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0089a05e-1353-4787-9f0f-6e5c40949b58" absoluteBounds="4.765, 2.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
